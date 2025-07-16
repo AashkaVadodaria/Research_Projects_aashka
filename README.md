@@ -1,5 +1,3 @@
-# Research_Projects_aashka
-A portfolio of research projects and reports by Aashka Vadodaria.
 # Aashka Vadodaria – Research Portfolio
 
 Welcome to my research portfolio! I'm a Master's student in International Economics at the University of Lille, with experience in public policy, data analysis, and economic research across Europe and India. This repository showcases selected academic work, policy reports, and data projects I've worked on.
@@ -8,62 +6,60 @@ Welcome to my research portfolio! I'm a Master's student in International Econom
 
 ## 🔍 Featured Projects
 
-### 📄 [Net Zero Industry Act – Policy Report]
+### 📄 [Net Zero Industry Act – Policy Report](https://github.com/AashkaVadodaria/Research_Projects_aashka/blob/main/Industry%20and%20Green%20transition.pdf?raw=true)  
 A short analysis of the EU’s NZIA and its impact on European industrial policy and decarbonization.
 
-### 📊 [Solow Growth Model – Spain Simulation]
-A simulation of the Solow growth model using macroeconomic indicators from Spain.
+### 📊 Solow Growth Model – Spain Simulation  
+- [Solow Simulation – Excel](https://github.com/AashkaVadodaria/Research_Projects_aashka/blob/main/Copy%20of%20Solow%20Model%20Simulation%20Aashka.xlsx?raw=true)  
+- [Solow Model Write-up – PDF](https://github.com/AashkaVadodaria/Research_Projects_aashka/blob/main/SOLOW.pdf?raw=true)
 
-### 📘 [Superstar Firms and Market Power]
+### 📘 [Superstar Firms and Market Power](https://github.com/AashkaVadodaria/Research_Projects_aashka/blob/main/SuperstarFirms.docx?raw=true)  
 A policy-oriented research piece on how dominant firms affect wages, innovation, and competition.
 
-### 🧾 Comparative Taxation: China vs Finland  
-**Topic**: Tax policy  
-**Summary**: Comparative report on income tax systems, estimating how progressive structures affect government revenue.  
-**Keywords**: public finance, tax brackets, income inequality
+### 🧾 [Comparative Taxation: China vs Finland](https://github.com/AashkaVadodaria/Research_Projects_aashka/blob/main/VADODARIA-Aashka_Tax-China-Finland.pdf?raw=true)  
+Comparative report on income tax systems, estimating how progressive structures affect government revenue.
 
-### 👷 Immigration and Wages: Cross-Country Panel Study  
-**Topic**: Labour economics  
-**Summary**: A panel-data econometric study on how immigration influences wages in receiving countries, with IV estimations.  
-**Keywords**: migration, wage inequality, econometrics
+### 📄 [Limited Information Maximum Likelihood – Theory and Application](https://github.com/AashkaVadodaria/Research_Projects_aashka/blob/main/Limited%20Information%20Maximum%20Likelihood%20-%20Aashkaex3fin.pdf?raw=true)  
+Econometric modeling using LIML estimator to address endogeneity in IV regressions.
 
 ---
 
 ## 📊 Applied Research & Analytics Projects
 
-### 🇸🇬 Singapore Data Analysis  
-Analyzed Singapore’s economic growth and trade strategies using econometric models to understand policy-led development and regional competitiveness.
+### 🇸🇬 [Singapore Data Analysis](https://github.com/AashkaVadodaria/Research_Projects_aashka/blob/main/Singapore%20(Vadodaria%2C%20Nezhdanova).pdf?raw=true)  
+Analyzed Singapore’s economic growth and trade strategies using econometric models.
 
-### 🏭 Nestlé Business Strategy Review  
-Explored Nestlé’s global market positioning, sustainability initiatives, and long-term strategic expansion across regions.
+### 🏭 [Nestlé Business Strategy Review](https://github.com/AashkaVadodaria/Research_Projects_aashka/blob/main/AashkaVadodaria_AlexandraNezhdanova_Nestle.docx?raw=true)  
+Explored Nestlé’s global positioning, sustainability initiatives, and strategic expansion.
 
-### 🧮 Migration and Wage Inequality  
-Investigated the impact of migration on wage disparities using econometric models in R and Stata, including panel data techniques.
+### 📈 [USA Economic Data Trends](https://github.com/AashkaVadodaria/Research_Projects_aashka/blob/main/USA_economic_data_analysis.pdf?raw=true)  
+Exploratory analysis of key US macroeconomic indicators and sector performance.
 
-### 📈 R Programming Portfolio  
-Developed R programs for linear and multivariate regression, time-series data analysis, and data visualization. Includes work with public datasets and replication of classic econometric results.
-
-### 🌾 Agribusiness Report  
-Co-authored a research report on the structural features and challenges of the agribusiness sector, focusing on productivity, trade, and job risk.
-
-### 📄 Sialkot Regional Economics Paper Review  
-Reviewed a peer-reviewed study on Sialkot’s local industrial economy, analyzing methodology, theoretical framing, and data interpretation.
-
-### 📊 Maddison Project Historical Data – R Tools  
-Participated in collaborative data analysis using the Maddison Project’s historical GDP datasets. Built visualizations and interpreted long-run growth patterns.
+### 📊 [Maddison Project Historical Growth Study](https://github.com/AashkaVadodaria/Research_Projects_aashka/blob/main/Maddisonproject.pdf?raw=true)  
+Analyzed long-run GDP trends using the Maddison Project’s historical data in R.
 
 ### 🤖 LIATA Estimator – Machine Learning for Economics  
-Used the LIATA ML estimator for non-linear econometric modeling, contributing to predictive analysis and variable significance tests.
+
+### 🧮 Migration and Wage Inequality    
+Panel data econometrics to study how migration impacts wage levels across countries.
+
+### 🌾 Agribusiness Sector Report  
+Research on structural issues in Indian agribusiness, including job risk and trade patterns.
+
+### 🧾 Sialkot Industrial Paper Review  
+Critique of peer-reviewed work on regional economic development in Sialkot.
 
 ---
 
 ## 🧾 Policy & Internship Work
 
 ### 📚 Public Policy Research Internship  
-Researched Indian education reforms, wrote briefing notes, and analyzed policy impact under guidance of senior researchers.
+**File**: *Missing — please upload*  
+Researched Indian education reforms, wrote policy notes, and analyzed education impact.
 
 ### 📱 Responsible Netism – Survey Internship  
-Conducted on-ground survey work, collected primary data, and contributed to analysis for digital literacy and internet safety advocacy in youth populations.
+**File**: *Missing — please upload*  
+Conducted field surveys for digital literacy and safe online practices.
 
 ---
 
@@ -81,3 +77,8 @@ Conducted on-ground survey work, collected primary data, and contributed to anal
 
 📧 Email: aashkavadodaria@hotmail.com  
 🔗 LinkedIn: [linkedin.com/in/aashkavadodaria](https://linkedin.com/in/aashkavadodaria)
+
+
+
+
+
