@@ -54,11 +54,9 @@ Critique of peer-reviewed work on regional economic development in Sialkot.
 ## 🧾 Policy & Internship Work
 
 ### 📚 Public Policy Research Internship  
-**File**: *Missing — please upload*  
 Researched Indian education reforms, wrote policy notes, and analyzed education impact.
 
 ### 📱 Responsible Netism – Survey Internship  
-**File**: *Missing — please upload*  
 Conducted field surveys for digital literacy and safe online practices.
 
 ---
