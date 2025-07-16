@@ -8,7 +8,7 @@ Welcome to my research portfolio! I'm a Master's student in International Econom
 
 ## 🔍 Featured Projects
 
-### 📄 [Net Zero Industry Act – Policy Report](./Industry and Green transition.pdf)
+### 📄 [Net Zero Industry Act – Policy Report]
 A short analysis of the EU’s NZIA and its impact on European industrial policy and decarbonization.
 
 ### 📊 [Solow Growth Model – Spain Simulation]
