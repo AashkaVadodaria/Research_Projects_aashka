@@ -8,13 +8,13 @@ Welcome to my research portfolio! I'm a Master's student in International Econom
 
 ## 🔍 Featured Projects
 
-### 📄 [Net Zero Industry Act – Policy Report](./Net_Zero_Industry_Report.pdf)  
+### 📄 [Net Zero Industry Act – Policy Report]  
 A short analysis of the EU’s NZIA and its impact on European industrial policy and decarbonization.
 
-### 📊 [Solow Growth Model – Spain Simulation](./Solow_Model_Spain.pdf)  
+### 📊 [Solow Growth Model – Spain Simulation]
 A simulation of the Solow growth model using macroeconomic indicators from Spain.
 
-### 📘 [Superstar Firms and Market Power](./Superstar_Firms_Report.pdf)  
+### 📘 [Superstar Firms and Market Power]
 A policy-oriented research piece on how dominant firms affect wages, innovation, and competition.
 
 ### 🧾 Comparative Taxation: China vs Finland  
